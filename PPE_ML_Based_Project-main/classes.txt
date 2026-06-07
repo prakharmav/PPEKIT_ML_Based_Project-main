@@ -1,0 +1,1 @@
+{0: 'Boots', 1: 'Ear-protection', 2: 'Glass', 3: 'Glove', 4: 'Helmet', 5: 'Mask', 6: 'Person', 7: 'Vest'}
